@@ -1,3 +1,4 @@
+// Array in Go
 package main
 
 import "fmt"
